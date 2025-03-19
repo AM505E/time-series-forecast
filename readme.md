@@ -50,12 +50,12 @@ My Streamlit app allows users to:
    Predicted Sales for **2014-03-01**: **4.42**  
  
    
-![App Screenshot](pictures/Screenshot 2025-03-17 at 18.05.16.png)
+![App Screenshot](pictures/Screenshot1.png)
 
 
 2. **Store 51, Item 223136 - Forecast for 2014-02-18**  
    Predicted Sales for **2014-02-18**: **11.37**  
  
    
-![App Screenshot](pictures/Screenshot 2025-03-17 at 18.50.53.png)
+![App Screenshot](pictures/Screenshot2.png)
 
